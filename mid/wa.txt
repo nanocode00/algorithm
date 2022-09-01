@@ -1,0 +1,7 @@
+1. A30 구하는 문제
+-> 확인해보니 오버플로우, 아마도 largeinteger을 응용하는 문제인듯
+2. strassen matrix
+구현을 급하게 했었는데 정확한지 해봐야 할듯
+3. quicksort swap count
+-> 첫번째 것만인가?
+4. o(n) -> 함정에 걸림
